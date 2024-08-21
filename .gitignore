@@ -1,0 +1,74 @@
+# Virtual environment
+venv/
+.env
+
+# Environment configuration files
+.env.local
+.env.*.local
+.env.test
+.env.production
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE configuration files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+
+# Local database files
+*.sqlite3
+
+# Packaging files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+__pypackages__/
+
+# Test coverage files
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Distribution files
+*.manifest
+*.spec
+
+# Documentation build files
+docs/_build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Tool configuration files
+*.ini
+*.cfg
+*.toml
+*.yml
+*.yaml
