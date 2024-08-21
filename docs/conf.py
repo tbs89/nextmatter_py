@@ -3,7 +3,7 @@ import sys
 sys.path.insert(0, os.path.abspath('../nextmatter'))
 
 project = 'NextMatter API Wrapper'
-author = 'Tomas Baidal'
+author = 'Your Name or Your Organization'
 release = '0.1'
 
 extensions = [
